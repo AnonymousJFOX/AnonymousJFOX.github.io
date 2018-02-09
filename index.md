@@ -9,3 +9,8 @@ This is my 360 image
 
 ![filter](Epic BOI.png?raw=true "Optional Title")
 
+
+###StoryScape FLAMINGO 
+
+<script src="/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/anonymousjfox/flamingo" ></script>
+
